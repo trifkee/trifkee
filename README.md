@@ -1,16 +1,19 @@
-### Hi there 👋
+# trifkee
 
-<!--
-**trifkee/trifkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Front-end web developer`**
 
-Here are some ideas to get you started:
+Hello there, I am aspired, junior, front-end web developer and graphic designer. I am enjoying creating new things and designs. Check out my GitHub Repos!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###🧰 Languages and tools
+<img align="left" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" width="26px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" width="26px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" width="26px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" width="26px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+<img align="left" width="26px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+#
+
+[![Lazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&theme=midnight-purple)](https://github.com/trifkee/github-readme-stats)
