@@ -1,6 +1,6 @@
 # Trifunović Lazar
 
-**`Front-end web developer & graphic designer`**
+**`Front-end web developer`** **`graphic designer`**
 
 Hello there, I am aspired, junior, front-end web developer and graphic designer. I am enjoying creating new things and designs. Check out my GitHub Repos!
 
