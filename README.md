@@ -15,6 +15,8 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
 <img align="left" width="26px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" width="26px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
+
 #
 
 [![Lazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&theme=midnight-purple)](https://github.com/trifkee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
