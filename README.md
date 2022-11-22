@@ -18,7 +18,7 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
 
 ### 📊 GitHub stats
 
-<div align="center">
+<div align="center" style="display:flex; flex-wrap:wrap;">
   <a href="https://github.com/trifkee/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&bg-color=#000000">
   </a>
