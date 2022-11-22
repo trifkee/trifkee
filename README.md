@@ -26,9 +26,9 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&layout=compact&bg-color=#000000">
   </a>
    <a href="https://github.com/trifkee/vremeplov">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=vremeplov&bg-color=#000000&layout=compact">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=vremeplov&bg-color=#000000&layout=compact">
   </a>
    <a href="https://github.com/trifkee/mojaKuhinjaV2">
-    <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=mojaKuhinjaV2&bg-color=#000000&layout=compact">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=mojaKuhinjaV2&bg-color=#000000&layout=compact">
   </a>
 </div>
