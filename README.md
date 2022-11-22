@@ -1,4 +1,4 @@
-# Trifunović Lazar - Front-end web developer & graphic designer
+# Trifunović Lazar
 
 **`Front-end web developer & graphic designer`**
 
