@@ -19,14 +19,14 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
 ### 📊 GitHub stats
 
 <div style="display:flex; flex-wrap:wrap; width:100%;">
-  #### Overall stats <br>
+  <strong> Overall stats </strong> <br>
   <a href="https://github.com/trifkee/github-readme-stats">
     <img height=170 src="https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&bg-color=#000000">
   </a>
    <a href="https://github.com/trifkee/github-readme-stats">
     <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&layout=compact&bg-color=#000000">
   </a> <br>
-  #### Highlighted projects <br>
+  <strong> Highlighted projects </strong> <br>
    <a href="https://github.com/trifkee/vremeplov">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=vremeplov&bg-color=#000000&layout=compact">
   </a>
