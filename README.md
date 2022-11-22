@@ -20,5 +20,5 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
 
 #
 
-[![Lazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&theme=midnight-purple)](https://github.com/trifkee/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&theme=midnight-purple)](https://github.com/trifkee/github-readme-stats)
+[![Lazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/trifkee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&theme=midnight-purple&layout=compact)](https://github.com/trifkee/github-readme-stats)
