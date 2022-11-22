@@ -20,10 +20,10 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
 
 <div style="display:flex; flex-wrap:wrap; width:100%;">
   <a href="https://github.com/trifkee/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&bg-color=#000000">
+    <img height=150 src="https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&bg-color=#000000">
   </a>
    <a href="https://github.com/trifkee/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&layout=compact&bg-color=#000000">
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&layout=compact&bg-color=#000000">
   </a>
    <a href="https://github.com/trifkee/vremeplov">
     <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=vremeplov&bg-color=#000000&layout=compact">
