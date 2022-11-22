@@ -2,7 +2,7 @@
 **`Front-end web developer💻`** **`graphic designer🎨`** 
 
 ### 🧑 About me
-Hello there, I am aspired, junior, front-end web developer and graphic designer. I am enjoying creating new things and designs. Check out my GitHub Repos! Currently working on my newest project "Vremeplov"
+<strong>Hello there!</strong> <br> I am aspired, junior, front-end web developer and graphic designer. I am enjoying developing new things and creating new designs. Check out my GitHub Repos. Currently working on my newest project "Vremeplov", for my personal needs and needs of our organization.
 
 ### 🧰 Languages and tools <br> #
 **`HTML5`** **`CSS3`** **`Javascript`** <Br> **`Photoshop`** **`Illustrator`** **`Figma`** 
