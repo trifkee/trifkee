@@ -1,13 +1,12 @@
 # Trifunović Lazar
-**`Front-end web developer💻`** **`graphic designer🎨`** 
+**`Front-end web developer💻`** **`graphic designer🎨`**
 
-### 🧑 About me
-<strong>Hello there!</strong> <br> I am aspired, junior, front-end web developer and graphic designer. I am enjoying developing new things and creating new designs. Check out my GitHub Repos. Currently working on my newest project "Vremeplov", for my personal needs and needs of our organization. <br>
-You can connect w/ me on
-<a href="#"> 
-  <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+<h3><strong>Hello there!👋</strong></h3>I am aspired, junior, front-end web developer and graphic designer. I am enjoying developing new things and creating new designs. Check out my GitHub Repos. Currently working on my newest project "Vremeplov", for my personal needs and needs of our organization. <br>
 
+### 🔗 Socials
+<a href="https://www.instagram.com/trifke00/"> **`Instagram`** </a>
+<a href="https://www.linkedin.com/in/lazartrifunovic/"> **`LinkedIn`** </a>
+  
 ### 🧰 Languages and tools <br> #
 **`HTML5`** **`CSS3`** **`Javascript`** **`npm`** **`express`** <Br>**`Bootstrap`**  **`ionic-icons`** **`nodeJs`**  **`Photoshop`**<Br> **`Illustrator`** **`Figma`** **`Adobe xD`** **`Blender`** <br> <br>
   <strong> Tools and Languages I am comfortable with </strong> <br>
@@ -29,10 +28,12 @@ You can connect w/ me on
 
 <br>
 <br>
+  
+<hr>
 
 ### 📊 GitHub stats
 
-<div style="display:flex; flex-wrap:wrap; width:100%;">
+<div>
   <strong> Overall stats </strong> <br>
   <a href="https://github.com/trifkee/github-readme-stats">
     <img height=170 src="https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&bg-color=#000000">
