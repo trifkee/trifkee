@@ -18,7 +18,17 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
 
 ### 📊 GitHub stats
 
-[![Lazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&bg-color=#000000)](https://github.com/trifkee/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&layout=compact&bg-color=#000000)](https://github.com/trifkee/github-readme-stats)
-[![Vremeplov Card](https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=vremeplov&bg-color=#000000&layout=compact)](https://github.com/trifkee/vremeplov)
-[![MojaKuhinja Card](https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=mojaKuhinjaV2&bg-color=#000000&layout=compact)](https://github.com/trifkee/mojaKuhinjaV2)
+<div align="center">
+  <a href="https://github.com/trifkee/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&bg-color=#000000">
+  </a>
+   <a href="https://github.com/trifkee/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&layout=compact&bg-color=#000000">
+  </a>
+   <a href="https://github.com/trifkee/vremeplov">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=vremeplov&bg-color=#000000&layout=compact">
+  </a>
+   <a href="https://github.com/trifkee/mojaKuhinjaV2">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=mojaKuhinjaV2&bg-color=#000000&layout=compact">
+  </a>
+</div>
