@@ -35,17 +35,17 @@
 
 <div>
   <strong> Overall stats </strong> <br>
-  <&nbsp><a href="https://github.com/trifkee/github-readme-stats">
+  &nbsp<a href="https://github.com/trifkee/github-readme-stats">
     <img height=170 src="https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&bg-color=#000000">
   </a>
-   <&nbsp><a href="https://github.com/trifkee/github-readme-stats">
+   &nbsp<a href="https://github.com/trifkee/github-readme-stats">
     <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&layout=compact&bg-color=#000000">
   </a> <br>
   <strong> Highlighted projects </strong> <br>
-   <&nbsp><a href="https://github.com/trifkee/vremeplov">
+   &nbsp<a href="https://github.com/trifkee/vremeplov">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=vremeplov&bg-color=#000000&layout=compact">
   </a>
-   <&nbsp><a href="https://github.com/trifkee/mojaKuhinjaV2">
+   &nbsp<a href="https://github.com/trifkee/mojaKuhinjaV2">
     <img height=100 src="https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=mojaKuhinjaV2&bg-color=#000000&layout=compact">
   </a>
 </div>
