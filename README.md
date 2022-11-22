@@ -1,6 +1,8 @@
-# Trifunović Lazar <br> **`Front-end web developer`** **`graphic designer`**
+# Trifunović Lazar
+**`Front-end web developer`** **`graphic designer`**
 
-Hello there, I am aspired, junior, front-end web developer and graphic designer. I am enjoying creating new things and designs. Check out my GitHub Repos!
+#About me
+Hello there, I am aspired, junior, front-end web developer and graphic designer. I am enjoying creating new things and designs. Check out my GitHub Repos! Currently working on my newest project "Vremeplov"
 
 ### 🧰 Languages and tools <br> #
 
@@ -10,13 +12,11 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="30px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" width="30px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-
+<&nbps>
 <img align="left" width="30px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 <img align="left" width="30px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="left" width="30px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 <br>
-
 
 #
 
