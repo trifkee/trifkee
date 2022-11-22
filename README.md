@@ -9,7 +9,7 @@ You can connect w/ me on
 </a>
 
 ### 🧰 Languages and tools <br> #
-**`HTML5`** **`CSS3`** **`Javascript`** **`npm`** **`express`** **`Bootstrap`** **`ionic-icons`** **`nodeJs`** <Br> **`Photoshop`** **`Illustrator`** **`Figma`** **`Adobe xD`** **`Blender`** <br> <br>
+**`HTML5`** **`CSS3`** **`Javascript`** **`npm`** **`express`** **`Bootstrap`** <Br> **`ionic-icons`** **`nodeJs`**  **`Photoshop`** **`Illustrator`** **`Figma`** **`Adobe xD`** **`Blender`** <br> <br>
   <strong> Tools and Languages I am comfortable with </strong> <br>
   <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="left" width="30px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
