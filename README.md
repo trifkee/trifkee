@@ -19,6 +19,6 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
 ### 📊 GitHub stats
 
 [![Lazar's GitHub stats](https://github-readme-stats.vercel.app/api?username=trifkee&show_icons=true&bg-color=#000000&layout=compact)](https://github.com/trifkee/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&bg-color=#000000&layout=compact&hide=language5)](https://github.com/trifkee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trifkee&show_icons=true&bg-color=#000000&layout=compact&hide=shell)](https://github.com/trifkee/github-readme-stats)
 [![Vremeplov Card](https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=vremeplov&bg-color=#000000&layout=compact)](https://github.com/trifkee/vremeplov)
 [![MojaKuhinja Card](https://github-readme-stats.vercel.app/api/pin/?username=trifkee&repo=mojaKuhinjaV2&bg-color=#000000&layout=compact)](https://github.com/trifkee/mojaKuhinjaV2)
