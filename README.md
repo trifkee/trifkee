@@ -5,7 +5,7 @@
 Hello there, I am aspired, junior, front-end web developer and graphic designer. I am enjoying creating new things and designs. Check out my GitHub Repos! Currently working on my newest project "Vremeplov"
 
 ### 🧰 Languages and tools <br> #
-**`HTML5`** **`CSS3`** **`Javascript`** **`Photoshop`** **`Illustrator`** **`Figma`** 
+**`HTML5`** **`CSS3`** **`Javascript`** <Br> **`Photoshop`** **`Illustrator`** **`Figma`** 
 
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="30px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
