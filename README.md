@@ -6,7 +6,7 @@ Hello there, I am aspired, junior, front-end web developer and graphic designer.
 
 #
 
-#🧰 Languages and tools
+###🧰 Languages and tools
 
 <img align="left" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="26px" tyle="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
