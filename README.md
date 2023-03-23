@@ -1,7 +1,7 @@
 # Trifunović Lazar
 **`Front-end web developer💻`** **`graphic designer🎨`**
 
-<h3><strong>Hello there!👋</strong></h3>I am aspired, junior, front-end web developer and graphic designer. I am enjoying developing new things and creating new designs. Check out my GitHub Repos. Currently working on my newest project "Vremeplov", for my personal needs and needs of our organization. <br>
+<h3><strong>Hello there!👋</strong></h3>I am aspired, junior, front-end web developer and graphic designer. I am enjoying developing new things and creating new designs. <br>
 
 ### 🔗 Socials
 <a href="https://www.instagram.com/trifke00/"> **`Instagram`** </a>
